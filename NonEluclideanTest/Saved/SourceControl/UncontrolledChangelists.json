@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Untitled.umap",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Blueprints/Portal1.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Blueprints/Portal2.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Blueprints/Portal2_RT.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Blueprints/Portal1_RT_Mat.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Blueprints/Portal2_RT_Mat.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/Blueprints/Portal1_RT.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/U8/8KZU9MFUKEP27KKSLS0707.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SG/6SRKUJVLZ0EE121ZVREMCR.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Utah Valley University/Spring 2023/DGM2221/NonEluclideanTest/Content/FirstPerson/Maps/PORTALTEST.umap"
+			]
+		}
+	]
+}
